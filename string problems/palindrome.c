@@ -1,8 +1,9 @@
-
-
-
-
-
+/*
+Program: string is palindromic or not
+Concepts: Strings, Loops
+Difficulty: Beginner
+Author: Soumadip Mukherjee
+*/
 
 //check palindromic string or not
 
