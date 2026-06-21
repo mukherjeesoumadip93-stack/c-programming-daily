@@ -1,3 +1,10 @@
+/*
+Program: soting of strings
+Concepts: Strings, Loops
+Difficulty: Beginner
+Author: Soumadip Mukherjee
+*/
+
 #include<stdio.h>
 #include<string.h>
 
